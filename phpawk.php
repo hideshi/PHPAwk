@@ -1,4 +1,7 @@
 <?php
+/**
+ * PHP AWK
+ */
 class Base {
     protected $FS = ',';
     protected $S = array();
